@@ -110,6 +110,10 @@ span{
   width: 100%;
 }
 
+.img-airbus {
+  background-image: url("../img/airbus.jpg")
+}
+
 .img-tylertouche {
   background-image: url("../img/tylertouche.jpg");
 }
