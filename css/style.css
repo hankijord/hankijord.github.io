@@ -134,6 +134,10 @@ span{
   background-image: url("../img/popcloud.jpg");
 }
 
+.img-ringarosie {
+  background-image: url("../img/ringarosie.jpg");
+}
+
 .bio {
   font-size: 1em;
   text-align: left;
